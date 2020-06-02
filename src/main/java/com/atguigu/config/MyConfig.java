@@ -5,6 +5,7 @@ public class MyConfig {
 
 
 	System.out.println("dev");
+	   System.out.println("dev2");
 
 
 
