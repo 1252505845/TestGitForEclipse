@@ -6,7 +6,7 @@ public class MyConfig {
 
 	System.out.println("dev");
 
-
+	System.out.println("月我也要为");
 
 }
 }
